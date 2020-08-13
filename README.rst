@@ -75,7 +75,7 @@ Contributors
 Maintainers
 ~~~~~~~~~~~
 
-This module is maintained by the OCA.
+This main module is maintained by the OCA. And this update module is maintain by Unisoft.
 
 .. image:: https://odoo-community.org/logo.png
    :alt: Odoo Community Association
